@@ -1,0 +1,29 @@
+Name: Model
+Id: g=576872621d365556ba6058ee15cfcf92
+Type: ModelCategoryFolder
+Children:
+- Name: ModbusTag1
+  Id: g=a4bbe12bcfd6cc99b2e59979d7fd6560
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: ModbusTag2
+  Id: g=7e709865077bd400707f0155afc4b6ad
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: ModbusTag3
+  Id: g=acd6fff39582b69ad9f1847d2f9def99
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+- Name: StationOperationCode
+  Id: g=38cd926869fede70c55f0f383f1b3480
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: DateTimeOffset
+  Id: g=b90635d6e96139791928a357159412a1
+  Type: BaseDataVariableType
+  DataType: Duration
+  Value: "0:00:00:0.0000000"

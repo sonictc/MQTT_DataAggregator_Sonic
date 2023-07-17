@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H38IZNSezkwsUMA5Rq8/rKbSsDhfE+dnJr94JHwOzyJAb0OK7Af+HcP29xNn4RfglRpJ1Dr8lSZz6TZuQdcb7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\speguan\\Downloads\\MQTT_DataAggregator\\ProjectFiles\\NetSolution\\MQTT_DataAggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\speguan\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512",
+    "C:\\Users\\speguan\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.1.2\\mqttnet.extensions.managedclient.3.1.2.nupkg.sha512",
+    "C:\\Users\\speguan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+Project C:/Users/speguan/Downloads/FT Optix Lab Files/MQTT_DataAggregator/MQTT_DataAggregator.optix upgraded on 16-07-2023 12:13:40.322
+
+Upgraded modules:
+FTOptix.Core: from 1.0 to 2.0
+FTOptix.Core.Net: from 1.0 to 1.1
+FTOptix.CoreBase: from 1.0 to 2.1
+FTOptix.UI: from 1.0 to 2.0
+FTOptix.UI.Net: from 1.0 to 2.0
+FTOptix.HMIProject: from 1.0 to 4.2
+FTOptix.HMIProject.Net: from 1.0 to 4.2
+FTOptix.NativeUI: from 1.0 to 2.0
+FTOptix.CommunicationDriver: from 1.0 to 2.0
+FTOptix.CommunicationDriver.Net: from 1.0 to 2.0
+FTOptix.WebUI: from 1.0 to 1.1
+FTOptix.WebUI.Net: from 1.0 to 1.1
+
+No potential breaking changes detected
+
+

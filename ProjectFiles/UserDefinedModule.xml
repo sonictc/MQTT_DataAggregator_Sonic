@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>MQTT_DataAggregatorUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_DataAggregator" guid="864207bcb918bbac13b4faee7178a799" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_DataAggregator" guid="a7df8dc37aae872c22e40e199ca02b48" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_DataAggregator" guid="197f6a2aee7e75e5a78426c6562ed36c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_DataAggregator" guid="b63cf63c4d4c2d9e15b68b96ccbb63da" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_DataAggregator" guid="72c48b78de10ad1459236ad89cca2e3c" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

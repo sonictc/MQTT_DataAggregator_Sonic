@@ -1,0 +1,16 @@
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\MQTT_DataAggregator.deps.json
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\MQTT_DataAggregator.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\MQTT_DataAggregator.pdb
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\MQTTnet.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\bin\Newtonsoft.Json.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.csproj.AssemblyReference.cache
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.AssemblyInfoInputs.cache
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.AssemblyInfo.cs
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.csproj.CoreCompileInputs.cache
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.csproj.CopyComplete
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\refint\MQTT_DataAggregator.dll
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\MQTT_DataAggregator.pdb
+C:\Users\speguan\Downloads\MQTT_DataAggregator\ProjectFiles\NetSolution\obj\Debug\ref\MQTT_DataAggregator.dll
